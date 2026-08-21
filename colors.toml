@@ -1,15 +1,16 @@
 mode = "light"
 
-accent = "#0057B8"
+accent = "#0052CC"
+hyprland_inactive_border = "rgba(8d99a566)"
 # This refers to "selection background"
 selection = "#BCD0E4"
 # This refers to "muted text"
 muted = "#8D99A5"
 
-background = "#E2E6EA"
-dark_background = "#D3D9E0"
-darker_background = "#C4CCD5"
-lighter_background = "#F0F2F4"
+background = "#E8ECF2"
+dark_background = "#DCE2E8"
+darker_background = "#CFD7E0"
+lighter_background = "#F4F6F8"
 
 # For herdr, "foreground" should be legible on "muted"
 # For yazi, "foreground" should be legible on "blue"
